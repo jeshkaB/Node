@@ -1,1 +1,0 @@
-const user = {name:'Petya', gender:'male'}
